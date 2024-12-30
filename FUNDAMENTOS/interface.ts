@@ -12,7 +12,7 @@ const pessoa: Pessoa = {
 const outraPessoa: Pessoa = {
     nome: "Lucas", 
     idade: 25,
-    profissao: "Dev"
+    profissao: "Desenvolvedor"
 };
 
 const arryPessoa: Array<Pessoa> = [
@@ -20,3 +20,10 @@ const arryPessoa: Array<Pessoa> = [
     outraPessoa
 ];
 
+const arryNum: number[] = [
+    1, 2, 3
+];
+
+const arryString: Array<string> = [
+    "1", "2", "3"
+];
